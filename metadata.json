@@ -2,6 +2,7 @@
   "name": "SMV Gents & Ladies PG - Kharadi, Pune",
   "description": "Comfortable single and double sharing PG accommodation in Kharadi, Pune with food included in rent, Wi-Fi, lift, attached washroom with geyser, and all essential amenities.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
